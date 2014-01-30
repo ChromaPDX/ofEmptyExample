@@ -1,0 +1,6 @@
+set solib-search-path /Users/robby/Code/of_v0.8.0_mobile/apps/EmptyExample/Android/obj/local/armeabi:/Users/robby/Code/of_v0.8.0_mobile/apps/EmptyExample/Android/libs/armeabi
+directory /Users/robby/Code/ANDROID/android-ndk-r8d/platforms/android-14/arch-arm/usr/include
+directory /Users/robby/Code/of_v0.8.0_mobile/apps/EmptyExample/Android/src
+directory /Users/robby/Code/ANDROID/android-ndk-r8d/sources/cxx-stl/system
+directory /Users/robby/Code/of_v0.8.0_mobile/apps/EmptyExample/Android/libs/armeabi
+
